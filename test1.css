@@ -1,0 +1,26 @@
+a {
+    color: yellow;
+}
+
+img{
+    height:auto;
+    width:585px; 
+}
+
+#thelink{
+    color:red;
+    background-color: black;
+}
+
+h1{
+    color:gray;
+    outline: 1px solid red;
+    padding: 24px;
+    margin: 50px;
+}
+
+.hi{
+    color:white;
+}
+
+
